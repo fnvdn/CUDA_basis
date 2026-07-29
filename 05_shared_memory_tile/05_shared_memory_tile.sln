@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_shared_memory_tile", "05_shared_memory_tile\05_shared_memory_tile.vcxproj", "{44FDBE70-E3F0-9792-DD2D-6ACFE24A9BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FDBE70-E3F0-9792-DD2D-6ACFE24A9BA8}.Debug|x64.ActiveCfg = Debug|x64
+		{44FDBE70-E3F0-9792-DD2D-6ACFE24A9BA8}.Debug|x64.Build.0 = Debug|x64
+		{44FDBE70-E3F0-9792-DD2D-6ACFE24A9BA8}.Release|x64.ActiveCfg = Release|x64
+		{44FDBE70-E3F0-9792-DD2D-6ACFE24A9BA8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37312FE5-A969-472D-9F90-CB79BF479E02}
+	EndGlobalSection
+EndGlobal
