@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  E:\Chip Research\reference\MOE\CUDA_Experiment\07_stream_event_overlap\07_stream_event_overlap>"E:\CUDAtoolkit\CUDA\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "E:\VS2026\VS2026\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -IE:\CUDAtoolkit\CUDA\include -IE:\CUDAtoolkit\CUDA\include  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o "E:\Chip Research\reference\MOE\CUDA_Experiment\07_stream_event_overlap\07_stream_event_overlap\x64\Debug\kernel.cu.obj" "E:\Chip Research\reference\MOE\CUDA_Experiment\07_stream_event_overlap\07_stream_event_overlap\kernel.cu" 
+  kernel.cu
+  tmpxft_0000139c_00000000-7_kernel.cudafe1.cpp
+  07_stream_event_overlap.vcxproj -> E:\Chip Research\reference\MOE\CUDA_Experiment\07_stream_event_overlap\x64\Debug\07_stream_event_overlap.exe
