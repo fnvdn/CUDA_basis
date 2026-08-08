@@ -19,3 +19,6 @@ a few experiment about CUDA basis
 
 09_memory_access_pattern	访存模式实验	比较连续访存和非连续访存，理解 global memory 合并访问和性能差异
 
+10_mini_moe_cache_sim MoE 缓存预取模拟 模拟 token 访问 expert、GPU cache 命中/缺失和 next-batch prefetch，理解 expert 加载代价与预取收益
+
+11_mini_moe_mlp 小型 MoE MLP 推理 在缓存模拟基础上把 expert 从编号换成两层 MLP，模拟 token 路由到多个 expert 并完成简化前向计算
